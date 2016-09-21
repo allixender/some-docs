@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Documentation and Project Drafts'
-copyright = '2016, Alex K'
+copyright = '2016, Alexander Kmoch, CC BY SA 4.0'
 author = 'Alex K'
 
 # The version info for the project you're documenting, acts as replacement for

@@ -9,8 +9,13 @@ Notes of Documentation and Project Drafts
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :numbered:
 
+   ogc-lecture
+   alg-a-day
+   wps-functional-composition
+   liquid-comanagement
 
 
 Indices and tables
@@ -21,20 +26,34 @@ Indices and tables
 * :ref:`search`
 
 
-OpenGIS(C) Web Services and Distributed Geoprocessing
-=====================================================
+About me
+========
 
-15 lectures about OGC standards, open geodata and spatial data infrastructure concepts, with a focus on Europe and Inspire,
-and examples from Canada, USA, Australia and New Zealand.
+I am a junior scientist working at GNS Science, New Zealand, as a Hydrological Spatial Systems Analyst.
+My current field of work includes standards-based web-services for groundwater data sharing, processing
+and 3D/4D interactive geoscientific visualisation for a national groundwater research programme
+(SMART Aquifer Characterisation [*]_) in New Zealand, where I develop an online data platform.
 
-Liquid Co-Management
-====================
+My research interests [*]_ lie in distributed computing under the premise of reliable data security, integrity and privacy/IP.
+I don't exactly fit into one of the desired core aspects of either Earth Sciences, Computer Sciences or GI Science,
+my work in the Geoscience Data Domain is one particular use case if you will, where my background in Computer Science is
+applied to the business needs of the environmental scientists and governmental decision makers.
 
-A research programme linking govt policy processes and geosciences via an interactive democracy data platform
+My PhD thesis with the title "A Context-based Groundwater Data Infrastructure" examines a networked and
+open standards-based integration of storing, accessing and transformation of distributed hydrogeological data with domain specific
+geocomputation processes in the interdisciplinary case study of groundwater research in New Zealand to design a Hydrogeology Infrastructure.
+I have experience in building research prototypes and working in collaborative research projects through
+my interdisciplinary engagement within the SMART project and my PhD work [*]_, [*]_, [*]_.
 
 
-Functional Composition Paradigm for WPS in SDI
-==============================================
+.. [*] http://www.gns.cri.nz/Home/Our-Science/Environment-and-Materials/Groundwater/Research-Programmes/SMART-Aquifer-Characterisation
 
-A new approach of solving numerical modelling with WPS algorithm composition.
+.. [*] http://allixender.blogspot.co.nz/
+
+.. [*] https://www.researchgate.net/profile/Alexander_Kmoch
+
+.. [*] http://orcid.org/0000-0003-4386-4450
+
+.. [*] https://scholar.google.com/citations?user=IGRU0wUAAAAJ&hl=en
+
 

@@ -1,7 +1,7 @@
 
 # Alex K Documentation and Project Drafts
 
-[![iCC BY SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 You are free to:
 
