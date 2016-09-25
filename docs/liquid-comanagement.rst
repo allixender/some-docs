@@ -57,11 +57,64 @@ discussion forum. Through delegates stakeholders can have their interests repres
 co-management approach which allows a close link of the resource managers with the
 affected communities while having the current science at hand.
 
-Background / Context - provide context by detailing the state of knowledge in this field
+Background / Context
+--------------------
+
+*Context by detailing the state of knowledge in this field:*
+
+Bryan Ford original Delegative Democracy draft from 2002, but was uncertain what scientific venue(s) it would be suitable
+at the time. Bryan unfortunately didn't manage to get back to exploring and developing it in any rigorous scientific fashion.
+
+  Delegative Democracy
+  http://www.brynosaurus.com/deleg/deleg.pdf
+
+However, he published a well cited informal blog post revisiting the idea and pointing to some of the interesting
+developments since 2002:
+
+  Delegative Democracy Revisited
+  http://bford.github.io/2014/11/16/deleg.html
+
+The closest academic work Bryan referred to as a reasonably serious, rigorous exploration of the topic of any kind
+(and the *only* peer-reviewed and published work directly on the topic that by then was James Green-Armytage’s political-economic analysis:
+
+  Direct Voting and Proxy Voting
+  http://inside.bard.edu/~armytage/proxy.pdf
+
+This paper took a first step at theoretically defining and analyzing the idea from a cost/benefit perspective,
+but it’s only a first step and leaves a lot of unanswered questions and issues, and of does not contributes to the empirical space.
+
+Helene Landemore, a colleague of Bryan in political science at Yale, has been interested in this and related "collective intelligence/decision-making"
+topics for a while. She is working with Rob Reich and Lucy Bernholz at Stanford on some events in the near future exploring this and other related “digital democracy” topics.
+One might try reaching out to any or all of them as additional points of contacts with more experience in the political and social sciences space.
+
+Blum, C. & Zuber, C.I., 2015. Liquid Democracy: Potentials, Problems, and Perspectives.
+The Journal of Political Philosophy, 24(August 2014), pp.6–9. Available at: http://doi.wiley.com/10.1111/jopp.12065 [Accessed August 4, 2016].
+
+Rodriguez, M. et al., 2007. Smartocracy: Social Networks for Collective Decision Making.
+In 2007 40th Annual Hawaii International Conference on System Sciences (HICSS’07). IEEE, pp. 90–90. Available at: http://public.lanl.gov/jhw/Jen/Publications_files/Smarto-Share.pdf
+
+Paulin, A., 2014. Through Liquid Democracy to Sustainable Non-Bureaucratic Government.
+CeDEM, 6(2), pp.216–230. Available at: http://research.apaulin.com/research/2014/cedem14-ld-snbg
+
+Boldi, P. et al., 2011. Viscous democracy for social networks.
+Communications of the ACM, 54(6), p.129. Available at: http://portal.acm.org/citation.cfm?id=1953154
+
+Zwattendorfer, B., Hillebold, C. & Teufl, P., 2013. Secure and Privacy-Preserving Proxy Voting System.
+2013 IEEE 10th International Conference on e-Business Engineering, 0, pp.472–477
+
+Link, J.Á.B., Tchorbadjiiski, A. & Wehrle, K., 2014. Opportunistic Vote Delegation for E-Voting Based on Liquid Democracy.
+In Proceedings of the 6th Extreme Conference on Communication. Galapagos Islands: ACM. Available at: https://www.comsys.rwth-aachen.de/fileadmin/papers/2014/2014-bitsch-extremecom-liquid-democracy.pdf
+
+Behrens, J. et al., 2014. The Liquid Democracy Journal - Issue 1, Berlin. Available at: http://www.liquid-democracy-journal.org/.
+
+Behrens, J. et al., 2014. The Principles of LiquidFeedback. Interaktive Demokratie e. V. Berlin. ISBN: 978–3–00–044795–2, p.240.
+
+More background on New Zealand context:
+---------------------------------------
 
 Iwi co-management, model web and environmental data management, resource consenting
 
-From medium article:
+Medium article:
 
 Liquid Democracy is a new form for collective decision making that gives voters full
 decisional control. Voters can either vote directly on issues, or they can delegate their voting
@@ -84,7 +137,16 @@ be migrated into and automated within the web. Thus, connecting SDI data provisi
 web processing services to solve information needs allows non-GIS- experts the use of such
 tools with recent data.
 
-Aims and Objectives - the overall goal and specific aims/objective(s) of the research
+Craglia, M. & Shanley, L., 2015. Data democracy - increased supply of geospatial information and expanded participatory processes in the production of data.
+International Journal of Digital Earth, 8(9), pp.679–693. Available at: http://www.tandfonline.com/doi/full/10.1080/17538947.2015.1008214 [Accessed September 9, 2016].
+
+http://www.tartu.ee/?lang_id=2&menu_id=13&page_id=25400
+
+
+Aims and Objectives
+-------------------
+
+The overall goal and specific aims/objective(s) of the research.
 
 Building a platform that:
 
@@ -102,6 +164,7 @@ plans
 4) Tikanga Maori could provide crucial new perspectives for the liquid virtual hui for example
 
 Science Stretch and Novelty
+---------------------------
 
 Liquid Co-management social, political and Maori science novelty,
 model web science scenarios technological novelty,
@@ -133,6 +196,7 @@ according to iterative appropriate requirements (ease of use but of course withi
 regiment of the desired interaction patterns)
 
 Possible future work if this project is successful
+--------------------------------------------------
 
 MfE / MBIE endorsement as govt online service, linking councils, iwi, consultancies, data
 providers, science providers and decision makers, bringing them on one table, virtual real

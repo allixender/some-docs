@@ -224,3 +224,4 @@ sympy-plots-for-*.tex/
 
 docs/_build
 .idea/
+docs/node_modules
