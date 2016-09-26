@@ -16,6 +16,7 @@ Contents:
    alg-a-day
    wps-functional-composition
    liquid-comanagement
+   portable-3d-datapack
 
 
 Indices and tables

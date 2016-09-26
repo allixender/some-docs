@@ -80,6 +80,8 @@ The closest academic work Bryan referred to as a reasonably serious, rigorous ex
   Direct Voting and Proxy Voting
   http://inside.bard.edu/~armytage/proxy.pdf
 
+Green-Armytage, J. (2015). Direct Voting and Proxy Voting. Constitutional Political Economy, 26(2), 190–220. http://doi.org/10.1007/s10602-014-9176-9
+
 This paper took a first step at theoretically defining and analyzing the idea from a cost/benefit perspective,
 but it’s only a first step and leaves a lot of unanswered questions and issues, and of does not contributes to the empirical space.
 
@@ -162,6 +164,20 @@ interlink with data and models and keep track of older policy decisions and mana
 plans
 
 4) Tikanga Maori could provide crucial new perspectives for the liquid virtual hui for example
+
+The size of the team and the scope of the project will be limited by the available funding.
+As recommendation is that other funding sources would provide something like 0.3-0.6 FTE for you plus something like 0.1-0.3 FTE
+for one highly established mentor who would have to have a very good track record in the science.
+The project team would also likely need to include a small number of hours like 0.05 FTE for
+GNS staff that might include project mgmt and liaison officer for project review and connecting to NZ stakeholders,
+and possibly someone to assist you with various technical components of the work.
+
+Finding a willing and credible expert as a mentor is the main step to take next. The project scope still needs to be determined through consultation,
+and it would be good to compare something like people's satisfaction with a management decision when that decision is based on 'traditional' democratic methods
+(like a freshwater management committee or by a regional council) vs. the liquid democracy approach.
+
+Naive hypothesis is that the acceptance of the decision will be better under liquid democracy... but the project would have to design the social science experiment
+to prove or disprove this hypothesis, preferably ona quantitative basis(?).
 
 Science Stretch and Novelty
 ---------------------------
