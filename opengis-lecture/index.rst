@@ -15,8 +15,21 @@ Contents:
    :maxdepth: 3
    :numbered:
 
-   ogc-lecture
-
+   ogc-lecture-01
+   ogc-lecture-02
+   ogc-lecture-03
+   ogc-lecture-04
+   ogc-lecture-05
+   ogc-lecture-06
+   ogc-lecture-07
+   ogc-lecture-08
+   ogc-lecture-09
+   ogc-lecture-10
+   ogc-lecture-11
+   ogc-lecture-12
+   ogc-lecture-13
+   ogc-lecture-14
+   ogc-lecture-15
 
 Indices and tables
 ==================
