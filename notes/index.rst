@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Notes of Documentation and Project Drafts
-=========================================
+Documentation, Notes and Drafts
+===============================
 
 Contents:
 
@@ -27,10 +27,9 @@ Indices and tables
 About me
 ========
 
-I am a junior scientist working at GNS Science, New Zealand, as a Hydrological Spatial Systems Analyst.
+I am a junior scientist workingas a Hydrological Spatial Systems Analyst.
 My current field of work includes standards-based web-services for groundwater data sharing, processing
-and 3D/4D interactive geoscientific visualisation for a national groundwater research programme
-in New Zealand, where I develop an online data platform.
+and 3D/4D interactive geoscientific visualisation for a groundwater research programme, where I develop an online data platform.
 
 My research interests ([*]_, [*]_)lie in distributed computing under the premise of reliable data security, integrity and privacy/IP.
 I don't exactly fit into one of the desired core aspects of either Earth Sciences, Computer Sciences or GI Science,
