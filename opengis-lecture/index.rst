@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Notes of Documentation and Project Drafts
-=========================================
+OGC Web Services and Distributed Geoprocessing
+==============================================
+
+15 lectures about OGC standards, open geodata and spatial data infrastructure concepts, with a focus on Europe and Inspire,
+and examples from Canada, USA, Australia and New Zealand.
 
 Contents:
 
@@ -13,10 +16,6 @@ Contents:
    :numbered:
 
    ogc-lecture
-   alg-a-day
-   wps-functional-composition
-   liquid-comanagement
-   portable-3d-datapack
 
 
 Indices and tables
@@ -47,13 +46,13 @@ I have experience in building research prototypes and working in collaborative r
 my interdisciplinary engagement within the SMART project and my PhD work [*]_, [*]_, [*]_.
 
 
-.. [*] http://www.gns.cri.nz/Home/Our-Science/Environment-and-Materials/Groundwater/Research-Programmes/SMART-Aquifer-Characterisation
+.. [*] https://www.gns.cri.nz/Home/Our-Science/Environment-and-Materials/Groundwater/Research-Programmes/SMART-Aquifer-Characterisation
 
-.. [*] http://allixender.blogspot.co.nz/
+.. [*] https://allixender.blogspot.co.nz/
 
 .. [*] https://www.researchgate.net/profile/Alexander_Kmoch
 
-.. [*] http://orcid.org/0000-0003-4386-4450
+.. [*] https://orcid.org/0000-0003-4386-4450
 
 .. [*] https://scholar.google.com/citations?user=IGRU0wUAAAAJ&hl=en
 

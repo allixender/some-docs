@@ -1,0 +1,25 @@
+language: python
+python:
+  - "2.7"
+# command to install dependencies
+env:
+  global:
+
+before_script:
+
+before_install:
+
+install:
+- pip install -q -U Sphinx
+# command to run tests
+
+script:
+- cd notes && sphinx-build -nW -b html -d _build/doctrees . _build/html
+- cd alg-a-day && make html
+# Flags used here, not in `make html`:
+#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
+#  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
+
+after_script:
+
+after_success:

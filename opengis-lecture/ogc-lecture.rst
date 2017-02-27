@@ -1,12 +1,5 @@
 .. ogc-lecture
 
-OGC Web Services and Distributed Geoprocessing
-==============================================
-
-15 lectures about OGC standards, open geodata and spatial data infrastructure concepts, with a focus on Europe and Inspire,
-and examples from Canada, USA, Australia and New Zealand.
-
-
 Lektion 1: Einführung
 ---------------------
 

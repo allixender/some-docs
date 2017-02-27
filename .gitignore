@@ -61,6 +61,10 @@ instance/
 .scrapy
 
 # Sphinx documentation
+notes/_build/
+alg-a-day/_build/
+proposals/_build/
+opengis-lecture/_build/
 docs/_build/
 
 # PyBuilder

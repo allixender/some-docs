@@ -1,0 +1,25 @@
+{
+  "name": "some-docs",
+  "version": "0.1.1-SNAPSHOT",
+  "description": "Documentation and Project Drafts",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allixender/some-docs.git"
+  },
+  "author": "Alexander Kmoch",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/allixender/some-docs/issues"
+  },
+  "homepage": "https://github.com/allixender/some-docs",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "shelljs": "^0.7.4"
+  }
+}
